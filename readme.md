@@ -47,7 +47,7 @@ pip install -r requirements.txt
 
 ### 🎯 Training Progress
 
-<img src="results/plots/reward_distribution.png" width="600"/>
+![Training Curve](images/reward_distribution.png)
 
 - Training stabilizes after ~100 episodes.
 - Moving average flattens, suggesting convergence.
@@ -56,7 +56,7 @@ pip install -r requirements.txt
 
 ## 🥊 Strategy Comparison
 
-<img src="results/plots/strategy_comparison.png" width="800"/>
+![Strategy_Comparison Curve](images/strategy_comparison.png)
 
 ### Reward Comparison Over 20 Runs
 
