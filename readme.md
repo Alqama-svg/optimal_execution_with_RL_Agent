@@ -5,7 +5,9 @@
 ![DeepRL](https://img.shields.io/badge/Reinforcement-Learning-orange)
 ![Jupyter](https://img.shields.io/badge/Notebook-ready-yellow)
 
-### This repository implements a **Reinforcement Learning (RL)** agent to solve the **optimal execution problem** in algorithmic trading using **Deep Q-Learning (DQN)**. It replicates and builds upon the paper:
+This repository implements a **Reinforcement Learning (RL)** agent to solve the **optimal execution problem** in algorithmic trading using **Deep Q-Learning (DQN)**. The paper aims to explore Value based, **Deep Q-Learning (DQN) Reinforcment Learning** for the problem of Optimal Trade Execution. The problem of Optimal Trade Execution aims to find the the optimal "path" of executing a stock order, or in other words the number of shares to be executed at different steps given a time constraint, such that the **price impact** from the market is minimised and consequently revenue from executing a stock order maximised.
+
+The results of the paper shows that under a simple environment, where the optimal execution strategy is known **(TWAP)**, the **RL** agent is able to very closely approximate this solution. As a consequence, this may serve as a proof of concept that under a broader environment the **RL** has the potential to learn more patterns relevant to the problem, like stock price prediction or external predatory trading, which would allow it to outperform the **TWAP** in practice. It replicates and builds upon the paper:
 
 > **Optimal Execution with Reinforcement Learning**  
 > Yadh Hafsi, Edoardo Vittori (2024) — [arXiv:2411.06389](https://arxiv.org/abs/2411.06389)
