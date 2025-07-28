@@ -173,6 +173,12 @@ This project is open-sourced under the MIT License. See LICENSE for details.
 
 ---
 
-## ✉️ Contact
+## 🤝 Contributing
 
-**For questions, open an issue or reach out via alqama043@gmail.com**
+Contributions to this project are whole heartedly welcomed and encouraged. Whether it's proposing new features, improving the code structure, enhancing documentation, or recommending improvements to the methodology, your input is highly valued.
+
+Please ensure that any contributions align with the goals of the project and maintain the clarity, reproducibility, and research integrity that underpin this work. All contributions, regardless of size, help strengthen the project and improve the robustness of the implementation.
+
+If you wish to contribute, you're encouraged for thoughtful collaboration, respectful discussion, and a commitment to shared learning. Thank you for helping make this project better for everyone.
+
+**For questions, open an issue or reach out via ✉️alqama043@gmail.com**
