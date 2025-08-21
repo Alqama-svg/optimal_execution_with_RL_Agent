@@ -182,3 +182,4 @@ Please ensure that any contributions align with the goals of the project and mai
 If you wish to contribute, you're encouraged for thoughtful collaboration, respectful discussion, and a commitment to shared learning. Thank you for helping make this project better for everyone.
 
 **For questions, open an issue or reach out via ✉️alqama043@gmail.com**
+
